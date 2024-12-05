@@ -1,0 +1,5 @@
+print('Hello world')
+print('Altino' + ' ' 'Maria' + ' ' 'Moniz' + ' '  'Ferreira')
+print('A' * 10)
+print(3*'Luz')
+print('Luz' ' ' * 3)
